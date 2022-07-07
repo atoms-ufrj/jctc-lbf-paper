@@ -1,4 +1,4 @@
-# Scripts
+# Additional Information on the LBF Method
 
 This repository contains additional information about the manuscript "A New Formulation for the Concerted Alchemical Calculation of van der Waals and Coulomb Components of Solvation Free Energies". The solvation system of phenol in aqueous media is considered for exemplification.
 It is attached solvation free energy calculation results and some python scripts applied in molecular dynamics simulations and data post-processing.
